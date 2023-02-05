@@ -3,7 +3,9 @@ Codeforces Training repo
 
 2018 - now
 
-/Problemset/* -- miscellaneous problems
-/Contest/\<roundname\>/* -- real-time online contests on codeforces
-/"practice group"/* -- ICPC practice
-/15295_icpc_training/* -- Course 15-295 ICPC training files
+| Directory | Description |
+| --- | --- |
+| [/Problemset/*](Problemset/) | miscellaneous problems |
+| [/Contest/\<roundname\>/*](Contest/) | real-time online contests on codeforces |
+| [/practice-group/*](practice-group/) | ICPC practice |
+| [/15295_icpc_training/\(F,S\)\(18-22\)/*](15295_icpc_training/) | CMU Course 15-295 ICPC training files |
